@@ -7,16 +7,9 @@ print(2011)
 print(mynumber)
 print("Alfred!")
 print("""
-Alfred is bad at coding,
-Gregory is good,
-BUT EVERYTHING GOES ON UNDER THE HOOD.
-Alfred is bad at coding,
-Gregory is good,
-BUT EVERYTHING GOES ON UNDER THE HOOD.
-Alfred is bad at coding,
-Gregory is good,
-BUT EVERYTHING GOES ON UNDER THE HOOD.
-Alfred is bad at coding,
+Alfred is learning how to code,
+Now Alfred is bad at coding,
+Soon he will be good,
 Gregory is good,
 BUT EVERYTHING GOES ON UNDER THE HOOD.
 """)
